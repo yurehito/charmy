@@ -62,7 +62,6 @@
 
 [![Charmy website preview](https://raw.githubusercontent.com/yurehito/docs/48e7e9b61b065fafdecb4f82dc1113f955676b9b/charmy%20website%20preview.png)](https://charmy.is-a.dev)
 
-
 ## ⚒️ **Installation**  
 **1️⃣ Fork & Clone the Repository**   
 ```sh
