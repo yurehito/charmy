@@ -58,10 +58,9 @@
 | ⚙️ | **Utility Commands** | Helpful commands for daily use. |
 | 🛡️ | **Anti-Raid & Anti-Spam Modules** | Protect your server from spam and raids. |
 
-## 👀 **Preview**  
+## 👀 **Preview**
 
-![Charmy Preview](https://raw.githubusercontent.com/yurehito/docs/main/charmy%20website%20preview.png)  
-
+![Charmy website preview](https://raw.githubusercontent.com/yurehito/charmy/f65fa2a79b6259f2ef883a439e5b2ce6c5ba49ac/charmy%20website%20preview.png)
 
 ## ⚒️ **Installation**  
 **1️⃣ Fork & Clone the Repository**   
