@@ -4,12 +4,12 @@
   <img src="https://raw.githubusercontent.com/yurehito/docs/main/Screenshot%202025-04-02%20204134.png" alt="Charmy Banner">
 </p>
 
-> ### The ultimate only one bot you need on your server with lots of features - moderation, ticketing, anti nuke, fun and others [learn more](https://charmy.is-a.dev)
+> ### The ultimate only one bot you need on your server with lots of features - moderation, ticketing, anti nuke, fun and others [learn more](https://charmy.pages.dev)
 
 <table align="center">
   <tr>
     <td>
-      <a href="https://charmy.is-a.dev" target="_blank">
+      <a href="https://charmy.pages.dev" target="_blank">
         <img src="https://img.shields.io/badge/Charmy--Website-2f2f2f?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=2f2f2f" alt="Website" height="35">
       </a>
     </td>
@@ -60,7 +60,7 @@
 
 ## 👀 **Preview**
 
-[![Charmy website preview](https://raw.githubusercontent.com/yurehito/docs/48e7e9b61b065fafdecb4f82dc1113f955676b9b/charmy%20website%20preview.png)](https://charmy.is-a.dev)
+[![Charmy website preview](https://raw.githubusercontent.com/yurehito/docs/48e7e9b61b065fafdecb4f82dc1113f955676b9b/charmy%20website%20preview.png)](https://charmy.pages.dev)
 
 ## ⚒️ **Installation**  
 **1️⃣ Fork & Clone the Repository**   
