@@ -122,6 +122,15 @@ body {
   width: 100%;
 }
 
+  #about {
+    scroll-margin-top: 90px;
+  }
+  #features,
+  #tos,
+  #privacy {
+    scroll-margin-top: 30px;
+  }
+
 .hamburger {
   display: none;
   background: none;
