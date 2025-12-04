@@ -40,7 +40,7 @@ cd project
 npm install
 ```
 
-### 4️⃣ development mode
+### 4️⃣ Host
 ```sh
 npm run dev
 ```
