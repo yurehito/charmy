@@ -1,32 +1,53 @@
-# 🪄 Let the magic happen with **Charmy** ✨
+# Meet **Charmy** — Your Virtual Cat Companion
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yurehito/docs/main/Screenshot%202025-04-02%20204134.png" alt="Charmy Banner">
+<a href="https://charmy.pages.dev">
+  <img src="https://raw.githubusercontent.com/yurehito/docs/a7c37b17aeabf3670f20c1a31812248c068106e6/charmy%20banner.png" alt="Charmy Banner">
+</a>
+
 </p>
 
-> ### No cat at home? No worries. Experience it virtually with Charmy [learn more](https://charmy.pages.dev)
+> ### No cat at home? No worries — experience one virtually with Charmy. [learn more](https://charmy.pages.dev)
 
 
-## 👀 **Preview**
+## ⚙️ Setup
 
-[![Charmy website preview](https://raw.githubusercontent.com/yurehito/docs/48e7e9b61b065fafdecb4f82dc1113f955676b9b/charmy%20website%20preview.png)](https://charmy.pages.dev)
+**1️⃣ Prerequisites**
 
-## ⚒️ **Installation**  
-**1️⃣ Fork & Clone the Repository**   
+- Node.js 18+
+- MongoDB database  
+- Discord Bot Token  
+- Discord Application Client ID  
+
+**2️⃣ Environment Setup**
+
+Create/update your `.env` file with:
+
+```
+DISCORD_TOKEN=your_bot_token
+CLIENT_ID=your_application_id
+MONGODB_URI=your_mongodb_connection_string
+```
+
+**3️⃣ Installation & Run**
+
 ```sh
 git clone https://github.com/yurehito/charmy.git
 cd project
 ```
 
-**2️⃣ Install Dependencies**
 ```sh
 npm install
+npm start
 ```
 
-**3️⃣ Run the Development Server**
+### 4️⃣ development mode
 ```sh
 npm run dev
-``` 
+```
 
-## 💖 **Show Some Love!**  
-If you love **Charmy**, give us a ⭐ on GitHub and spread the word! 🚀  
+## ⭐ Preview
+[![Charmy Website](https://raw.githubusercontent.com/yurehito/docs/9cf3d4aaa78c792b8c1896a74f27728e5b1ec613/charmy%20website.png)](https://charmy.pages.dev)
+
+> **Note**
+> If you love Charmy, give us a ⭐ on GitHub and spread the word! 🚀
