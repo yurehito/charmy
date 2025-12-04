@@ -5,8 +5,10 @@
   --accent-color: #3b82f6;
   --text-color: #ffffff;
 }
+html {
+  scroll-padding-top: 90px;
+}
 
-/* Global Styles */
 * {
   margin: 0;
   padding: 0;
@@ -122,15 +124,6 @@ body {
   width: 100%;
 }
 
-  #about {
-    scroll-margin-top: 90px;
-  }
-  #features,
-  #tos,
-  #privacy {
-    scroll-margin-top: 30px;
-  }
-
 .hamburger {
   display: none;
   background: none;
@@ -142,9 +135,10 @@ body {
   z-index: 1001;
 }
 
-/* Main Content */
+/* Main Content
+   Note: top padding matches the navbar/scroll-padding offset */
 main {
-  padding-top: 80px;
+  padding-top: 90px;
 }
 
 /* About Section */
