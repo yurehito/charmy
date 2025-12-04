@@ -38,7 +38,6 @@ cd project
 
 ```sh
 npm install
-npm start
 ```
 
 ### 4️⃣ development mode
