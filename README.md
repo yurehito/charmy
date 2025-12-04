@@ -46,7 +46,8 @@ npm run dev
 ```
 
 ## ⭐ Preview
-[![Charmy Website](https://raw.githubusercontent.com/yurehito/docs/9cf3d4aaa78c792b8c1896a74f27728e5b1ec613/charmy%20website.png)](https://charmy.pages.dev)
+[![Charmy New Website](https://raw.githubusercontent.com/yurehito/docs/09eedc4256478e1c853528d3c7d8010a6106e15d/charmy-new%20website.png)](https://charmy.pages.dev)
+
 
 > **Note**
 > If you love Charmy, give us a ⭐ on GitHub and spread the word! 🚀
