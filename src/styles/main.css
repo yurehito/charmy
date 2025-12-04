@@ -265,20 +265,6 @@ main {
   position: relative;
 }
 
-.new-badge {
-  position: absolute;
-  top: -10px;
-  right: -10px;
-  background: linear-gradient(45deg, #ff3366, #ff6b6b);
-  color: white;
-  padding: 0.3rem 0.6rem;
-  border-radius: 20px;
-  font-size: 0.8rem;
-  font-weight: bold;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-  animation: pulse 2s infinite;
-}
-
 @keyframes pulse {
   0% { transform: scale(1); }
   50% { transform: scale(1.05); }
